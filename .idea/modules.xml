@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20180404_kt_FizzBuzz.iml" filepath="$PROJECT_DIR$/20180404_kt_FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20180404_kt_FizzBuzz_main.iml" filepath="$PROJECT_DIR$/.idea/modules/20180404_kt_FizzBuzz_main.iml" group="20180404_kt_FizzBuzz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20180404_kt_FizzBuzz_test.iml" filepath="$PROJECT_DIR$/.idea/modules/20180404_kt_FizzBuzz_test.iml" group="20180404_kt_FizzBuzz" />
+    </modules>
+  </component>
+</project>
